@@ -1,3 +1,6 @@
+# pliki części kodu, które końcowo nie zostały użyte w pracy,
+# ale mogą być przydatne przy dalszym rozwijaniu projektu
+
 import networkx as nx
 import numpy as np
 import random
